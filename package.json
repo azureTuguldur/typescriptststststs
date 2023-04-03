@@ -1,0 +1,21 @@
+{
+  "name": "21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "1",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.3"
+  }
+}
